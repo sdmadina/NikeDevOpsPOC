@@ -15,7 +15,7 @@
 	<target name="buildcode" depends="init,compile,makejar,cleanup,buildonly" description="Nike's FlexPLM Build">
 		<echo message="--------------------------"/>
 		<echo message="---------------------------"/>
-		<echo message="Nike Code Build completed......."/>
+		<echo message="Nike Code Build completed.Enjoy..."/>
 		<echo message="---------------------------"/>
 		<echo message="---------------------------"/>
 	</target>
